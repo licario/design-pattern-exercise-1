@@ -11,7 +11,7 @@ public class Main {
 
     BarChart barChart1 = new BarChart.BarChartBuilder()
             .withBackgroundColor("black")
-            .withTitle("koza na rowrze")
+            .withTitle("koza na rowerze")
             .withDisplayTitle(false)
             .withHeight(787)
             .build();
